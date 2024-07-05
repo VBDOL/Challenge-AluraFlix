@@ -1,0 +1,15 @@
+.text-input {
+    margin-bottom: 20px;
+  }
+
+  .text-input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  .text-input input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

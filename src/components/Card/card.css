@@ -1,0 +1,158 @@
+/* card.css */
+.card-front {
+  background-color: #222;
+  color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgb(1, 217, 255);
+}
+
+.card-back {
+  background-color: #222;
+  color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgb(87, 241, 56);
+}
+
+.card-mobile {
+  background-color: #222;
+  color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(235, 212, 4, 0.979);
+}
+
+.card-front img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-back img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-mobile img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-content-front {
+  padding: 20px;
+}
+
+.card-content-back {
+  padding: 20px;
+}
+
+.card-content-mobile {
+  padding: 20px;
+}
+
+.card-content-front h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.card-content-back h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.card-content-mobile h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.card-content-front .category {
+  font-size: 0.9em;
+  color: #aaa;
+  margin-bottom: 15px;
+}
+
+.card-content-back .category {
+  font-size: 0.9em;
+  color: #aaa;
+  margin-bottom: 15px;
+}
+
+.card-content-mobile .category {
+  font-size: 0.9em;
+  color: #aaa;
+  margin-bottom: 15px;
+}
+
+.actions-front {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.actions-back {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.actions-mobile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.actions-front button {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.actions-back button {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.actions-mobile button {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+
+.delete svg {
+  margin-left: 20px;
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+.edit svg {
+  
+  color: #ffffff;
+  font-size: 1.5em;
+}

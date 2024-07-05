@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "aaa5",
+      "title": "efef",
+      "url": "fwwf",
+      "img": "https://cdn.pixabay.com/photo/2024/02/26/19/39/monochrome-image-8598798_1280.jpg",
+      "category": "fwfw"
+    },
+    {
+      "id": "afe4",
+      "title": "conheça alura",
+      "url": "https://www.youtube.com/@alura",
+      "category": "front",
+      "imageUrl": "https://i.ytimg.com/vi/94yuIVdoevc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC4vOyTMbOEWeCiqupoKk3e_Nrlqw"
+    },
+    {
+      "id": "ab52",
+      "title": "guia front",
+      "url": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "category": "front",
+      "imageUrl": "https://i.ytimg.com/vi/fpth65ts3cw/mqdefault.jpg"
+    },
+    {
+      "id": "a9d0",
+      "title": "guia react",
+      "url": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "category": "front",
+      "imageUrl": "https://i.ytimg.com/vi/0tS4lUq_7iA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD485OsA_gv3cbzi9bO2IScatTJQw"
+    },
+    {
+      "id": "b866",
+      "title": "backend",
+      "url": "https://www.youtube.com/watch?app=desktop&v=xrRy3RI3HE4",
+      "category": "back",
+      "imageUrl": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg"
+    },
+    {
+      "id": "eded",
+      "title": "backendw",
+      "url": "https://www.youtube.com/watch?app=desktop&v=LDU4BCSxPp4",
+      "category": "back",
+      "imageUrl": "https://i.ytimg.com/vi/_Mx64Rkv92c/sddefault.jpg"
+    },
+    {
+      "id": "46a9",
+      "title": "backendww",
+      "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "category": "back",
+      "imageUrl": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg"
+    },
+    {
+      "id": "d2e3",
+      "title": "backendww",
+      "url": "https://www.youtube.com/watch?v=31ljFqO6kZQ",
+      "category": "mobile",
+      "imageUrl": "https://i.ytimg.com/vi/31ljFqO6kZQ/maxresdefault.jpg"
+    },
+    {
+      "id": "d774",
+      "title": "bfw",
+      "url": "https://www.youtube.com/watch?v=1DW5gI_O3oc",
+      "category": "mobile",
+      "imageUrl": "https://i.ytimg.com/vi/1DW5gI_O3oc/sddefault.jpg"
+    },
+    {
+      "id": "ee7a",
+      "title": "mobile",
+      "url": "https://www.alura.com.br/escola-mobile",
+      "category": "mobile",
+      "imageUrl": "https://i.ytimg.com/vi/yI3AYA3L0xU/maxresdefault.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Education"
+    },
+    {
+      "id": "2",
+      "name": "Programming"
+    }
+  ]
+}
