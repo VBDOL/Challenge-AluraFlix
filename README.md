@@ -14,7 +14,7 @@ Neste repositório você encontrará uma página super elaborada para consumir c
 | ✨ Nome        | **AluraFlix** - Vite-React |
 | 🏷️ Tecnologias |HTML, CSS, JavaScript, React |
 
-<img src="" alt="Descrição da imagem">
+<img src="src/assets/images/aluraflix-site.JPG" alt="Descrição da imagem">
 
 
 ## Detalhes do projeto
