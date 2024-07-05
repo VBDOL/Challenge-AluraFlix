@@ -49,7 +49,7 @@ Há aulas específicas para o desenvolvimento, mas há atividades que nos permit
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="/imagens/JS-API.JPG">
+      <img height="150px" src="src/assets/images/Badge-AluraFlix.png">
     </td>
    </tr>
 </table>
